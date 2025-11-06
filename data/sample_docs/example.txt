@@ -1,0 +1,1 @@
+Contextual search helps improve search accuracy by understanding the meaning of a query. Machine learning models analyze context to return relevant results.
